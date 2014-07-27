@@ -7,7 +7,7 @@ The tidy data described by this code book extracts and analyzes those features f
 For all features, values are normalized values [-1,1] and have no units.
 
 
-Subject: Test subject code. Range of values: 0-30.  30 volunteers within an age bracket of 19-48 years participated in the study. Each person performed six 
+Subject: Test subject code. Range of values: 1-30.  30 volunteers within an age bracket of 19-48 years participated in the study. Each person performed six 
             .activities wearing a smartphone (Samsung Galaxy S II) on the waist to collect accelerometer and gyroscope signals.
   
 Activity: The different types of activities the subjects engaged in for the test: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING.
