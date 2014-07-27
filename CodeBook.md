@@ -14,7 +14,7 @@ Activity: The different types of activities the subjects engaged in for the test
                   
 Time.BodyAccel.Mean.XYZ: The mean of all measurements for original feature tBodyAcc-mean() in the X,Y and Z directions for each subject-activity combination. 
       
-Time.BodyAccel.StdDev.XYZ: The mean of all measurements for original feature tBodyAcc-mean() in the X,Y and Z directions for each subject-activity combination.  
+Time.BodyAccel.StdDev.XYZ: The mean of all measurements for original feature tBodyAcc-std() in the X,Y and Z directions for each subject-activity combination.  
 
 Time.GravityAccel.Mean.XYZ: The mean of all measurements for original feature tGravityAcc-mean() in the X,Y and Z directions for each subject-activity combination.  
 
